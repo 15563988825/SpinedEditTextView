@@ -1,8 +1,8 @@
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
-def siteUrl = 'https://github.com/15563988825/AmapLocationSelector/tree/master/libary' // 项目主页。
-def gitUrl = 'https://github.com/15563988825/AmapLocationSelector.git' // Git仓库的url。
+def siteUrl = 'https://github.com/15563988825/SpinedEditTextView/tree/master/spedview_library' // 项目主页。
+def gitUrl = 'https://github.com/15563988825/SpinedEditTextView.git' // Git仓库的url。
 
 group = "com.wangyunxiu.lib"
 
@@ -16,7 +16,7 @@ install {
                 packaging 'aar' // 包格式aar、jar
                 // 项目描述
                 name 'spinededview'// 可选，项目名称。
-                description 'amap location select project'// 可选，项目描述。
+                description 'A EditText with spined menu'// 可选，项目描述。
                 url siteUrl // 项目主页，这里是引用上面定义好。
 
                 // 软件开源协议，现在一般都是Apache License2.0吧，可以不需要修改。
