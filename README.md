@@ -1,7 +1,7 @@
 # SpinedEditTextView
 SpinedEditTextView
 
-一个包含Spiner可选项的EditTextView
+一个包含Spinner可选项的EditTextView
 
 # 使用
 1、Gradle
