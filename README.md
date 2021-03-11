@@ -3,7 +3,7 @@ SpinedEditTextView
 
 一个包含Spiner可选项的EditTextView
 
-使用
+# 使用
 1、Gradle
 ```
 implementation 'com.wangyunxiu.lib:spedview_library:0.1'
