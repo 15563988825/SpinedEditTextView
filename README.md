@@ -25,3 +25,4 @@ spinedEditView.setListAdapter(...ListAdapter...)
 ```
 
 
+![](https://github.com/15563988825/SpinedEditTextView/blob/master/art/1.png)
